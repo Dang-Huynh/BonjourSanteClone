@@ -26,3 +26,5 @@ dailyscrum.txt
 
 3. Need assistance / figure things out
 - need to approve finished proposal before discussion with lecturer
+
+Date 2025/02/20
